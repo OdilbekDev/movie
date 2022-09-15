@@ -9,7 +9,7 @@ const movies = [
     "imdb_id": "tt7026230",
     "imdb_rating": 7.4,
     "runtime": 66,
-    "language": "English",
+    "language": "Russian",
     "ytid": "4hZi5QaMBFc"
   },
   {
@@ -22,7 +22,7 @@ const movies = [
     "imdb_id": "tt0436629",
     "imdb_rating": 7.9,
     "runtime": 75,
-    "language": "English",
+    "language": "Russian",
     "ytid": "jwD04NsnLLg"
   },
   {
@@ -35,7 +35,7 @@ const movies = [
     "imdb_id": "tt0300195",
     "imdb_rating": 6.8,
     "runtime": 65,
-    "language": "English",
+    "language": "Uzbek",
     "ytid": "uCKwHHftrU4"
   },
   {
@@ -48,7 +48,7 @@ const movies = [
     "imdb_id": "tt0329374",
     "imdb_rating": 6.6,
     "runtime": 0,
-    "language": "English",
+    "language": "Korean",
     "ytid": "JA03ciYt-Ek"
   },
   {
@@ -61,7 +61,7 @@ const movies = [
     "imdb_id": "tt2018111",
     "imdb_rating": 7.6,
     "runtime": 99,
-    "language": "English",
+    "language": "Arabic",
     "ytid": "8CdIiD6-iF0"
   },
   {
