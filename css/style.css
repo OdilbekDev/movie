@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+.list li{
+    margin: 10px;
+}
+
+.selects{
+    display: flex;
+}
