@@ -7,7 +7,7 @@ let newArr = []
 let newArr2 = []
 let newArr3 = []
 let newArr4 = []
-const allFilm = movies.slice(0,100)
+const allFilm = movies
 mapper(allFilm)
 
 function mapper(params) {
@@ -27,7 +27,7 @@ function mapper(params) {
             newArr4.push(e.language)
         }
         newLi.innerHTML = `<div class="card" style="width: 18rem;">
-        <img src="https://img.youtube.com/vi/${e.ytid}/default.jpg
+        <img src="https://img.youtube.com/vi/${e.ytid}/hqdefault.jpg
         " class="card-img-top" alt="...">
         <div class="card-body">
           <h5 class="card-title">${e.Title}</h5>
